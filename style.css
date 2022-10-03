@@ -1,0 +1,27 @@
+img {
+    width:120px;
+}
+.product {
+    border-radius:10px;
+    box-shadow: 6px 6px 11px 0px #aacad1;
+    width: 200px;
+    height: 250px;
+    margin: 50px;
+    float:left;
+    padding:10px;
+    text-align: center;
+}
+
+.title, .price, .in_sales {
+    font-size:20px;
+    margin-bottom: 5px;
+    color: blue;
+}
+
+a{
+    text-decoration: none;
+}
+
+#XgenElement {
+    text-align: center;
+}
